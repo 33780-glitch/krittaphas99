@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-color: lightcyan;
+    border-bottom: 20px solid lightcoral;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 18;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: lightgreen;
+    color: darkgreen;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: darkgreen;
+    color: lightgreen;
+}
